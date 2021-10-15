@@ -1,4 +1,4 @@
-OBJS = main.o tokenizer.o #history.o
+OBJS = main.o tokenizer.o history.o
 
 CFLAGS = -g -O3
 
